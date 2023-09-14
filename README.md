@@ -2,6 +2,7 @@
 a machine learning mode to deal with wielding gun prediction
 
 train folder contains an example file of the data
+
 task3 folder contains data with lifetime information, sorted by wielding gun number
 
 preprocess.py: preprocess original data from train folder
